@@ -8,7 +8,7 @@ class Car:
                  back_right=0.0, x_location=0.0, y_location=0.0,
                  direction=0.0, speed=0.0):
 
-        self.front_left = 0.0
+        self.front_left = 0.2
         self.front_right = 0.0
         self.back_left = 0.0
         self.back_right = 0.0
